@@ -8,7 +8,7 @@ title: Custom callout color
 
     ```scss
     $pink-000: #f77ef1;
-    $pink-100: #f967f1;
+    $red-300: #C8102E;
     $pink-200: #e94ee1;
     $pink-300: #dd2cd4;
     ```
@@ -16,7 +16,7 @@ title: Custom callout color
 1.  In `_sass/color_schemes/test.scss` insert:
 
     ```scss
-    $link-color: $pink-100
+    $link-color: $red-300
     ```
 
 1.  In `_config.yaml` replace:
