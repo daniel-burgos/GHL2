@@ -154,7 +154,8 @@ callouts:
     color: green
   note:
     title: Note
-    color: purple
+    color: red
+    opacity: 0.3
   warning:
     title: Warning
     color: red
