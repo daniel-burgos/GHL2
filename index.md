@@ -1,99 +1,185 @@
 ---
-layout: default
-title: Home
-nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
-permalink: /
+title: Blakely Advocacy Institute
+layout: home
 ---
+# Legal Negotiations Course Materials
 
-# Focus on writing good documentation
-{: .fs-9 }
+  <span style="color: rgba(200,16,46);">your text here 
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+[Syllabus](./Spring_2024_Legal_Negotiatio_Syllabus_updated.pdf)
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+[Syllabus Addendum](./Spring_2024_Legal_Negotiations_syllabus_addendum.pdf)
 
----
+**Negotiation Demonstration**
 
-{: .warning }
-> This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
+- **Zenz v Recore**
 
-Just the Docs is a theme for generating static websites with [Jekyll]. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.[^1] Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page.
+    - [Zenz Confidential Information](./Senator_Zenz.pdf)
+    - [Recore Confidential Information](./Senator_Recore.pdf)
+ 
+        - [Opening Video](https://uofh-my.sharepoint.com/:v:/g/personal/dburgosc_cougarnet_uh_edu/Edl19Pca7xZEgo4vUFVfeh8BK6qKS5uj9JhI8l7xEsj1kw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=c8nwtl)
+     
+<br> **<u> Week 1 (): Course Introduction, Assessments, Negotiations Process & Ethics </u>**
 
-Jekyll builds this Just the Docs theme docs website using the theme itself. These web pages show how your web pages will look *by default* when you use this theme. But you can easily *[customize]* the theme to make them look completely different!
+[Week 1 Slides](./Week_1_Legal_Negotiations_Spring_2024_(Class 1).pptx)
 
-Browse the docs to learn more about how to use this theme.
+[Glasl's 9 stage Model of Conflict Escalation](./Conflict_Escalation_Glasl.pdf)
 
-## Getting started
+[Six Guidelines for getting to Yes](./Six_Guidelines_for_Getting_to_Yes.docx)
 
-The [Just the Docs Template] provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site, just click "[use the template]"!
+[Ethics in Negotiations](./Ethics_in_Negotiations.docx)
 
-{: .note }
-To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
+[When Our Principles Crash Up Against Our Negotiations Goals](./When_Our_Principles_Crash_Up_Against_Our_Negotiation_Goals.docx)
 
-You can easily set the site created by the template to be published on [GitHub Pages] – the [template README] file explains how to do that, along with other details.
+<br> **<u>Week 2 (): Setting the Scene/Framing & Themes/Hooks </u>** 
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^2] And you will be able to deploy your local build to a different platform than GitHub Pages.
+[Week 2 Slides](./Week_2_Setting_the_Scene_and_Framing_Spring_2024.pptx)
 
-More specifically, the created site:
+[Framing In Negotiation](./Framing_in_Negotiation.docx)
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+[Should You Tell Them A Story?](./Stories_Weak_Strong_Facts.docx)
 
-Other than that, you're free to customize sites that you create with the template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+<br> **Negotiation Scenario: Oil Pricing** 
+- Side A
+- Side B
 
-{: .note }
-See the theme [README][Just the Docs README] for how to use the theme as a gem without creating a new site.
+<br> **<u>Week 3 (): BATNA </u>** 
 
-## About the project
+[Week 3 Slides](./)
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](https://patrickmarsceill.com).
+[BATNA Basics](./13_BATNA_Basics.pdf)
 
-### License
+[BATNA and Risky Negotiation Tactics](./BATNA_and_Risky_Negotiation_Tactics.docx)
 
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
+[BATNA Strategy](./BATNA_Strategy_Should_You_Reveal_Your_BATNA.docx)
 
-### Contributing
+[Bargaining with Your BATNA in Mind](./Negotiation_and_Bargaining_with_Your_BATNA_in_Mind.docx)
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
+[The Anchoring Bias in Negotiation](./The_Anchoring_Bias_in_Negotiation.docx)
 
-#### Thank you to the contributors of Just the Docs!
+<br> **Negotiation Scenario: Sally Soprano** 
+- [Confidential Information for Sally's Agent](./Sally's_Agent-Confidential_Information.pdf)
+- [Confidential Information for Lyric Opera's Business Manager](./Lyric_Opera's_Business_Manager-Confidential_Information.pdf)
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
-  </li>
-{% endfor %}
-</ul>
+<br> **<u>Week 4 (): Breaking Down the Fact Pattern, Active Listening/Information Gathering/Motivational Interviewing </u>** 
 
-### Code of Conduct
+[Week 4 Slides](./)
 
-Just the Docs is committed to fostering a welcoming community.
+[Breaking Down a Fact Parttern](./Breaking_Down_a_Fact_Pattern.pdf)
 
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
+[Ask better Negotiations Questions](./Ask_Better_Negotiation_Questions.docx)
 
-----
+[Listening Tips for Dealing with Difficult People in Negotiation](./Negotiation_Tips_Listening_Skills_for_Dealing_with_Difficult_People.docx)
 
-[^1]: The [source file for this page] uses all three markup languages.
+[Preparing for a Negotiation](./Preparing_for_a_Negotiation.docx)
 
-[^2]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+<br> **Negotiation Scenario: Axis Affair**
 
-[Jekyll]: https://jekyllrb.com
-[Markdown]: https://daringfireball.net/projects/markdown/
-[Liquid]: https://github.com/Shopify/liquid/wiki
-[Front matter]: https://jekyllrb.com/docs/front-matter/
-[Jekyll configuration]: https://jekyllrb.com/docs/configuration/
-[source file for this page]: https://github.com/just-the-docs/just-the-docs/blob/main/index.md
-[Just the Docs Template]: https://just-the-docs.github.io/just-the-docs-template/
-[Just the Docs]: https://just-the-docs.com
-[Just the Docs repo]: https://github.com/just-the-docs/just-the-docs
-[Just the Docs README]: https://github.com/just-the-docs/just-the-docs/blob/main/README.md
-[GitHub Pages]: https://pages.github.com/
-[Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[customize]: {% link docs/customization.md %}
-[use the template]: https://github.com/just-the-docs/just-the-docs-template/generate
+- Confidential Information for Axis
+- Confidential Information for Denise Webster
+
+<br> **<u>Week 5 (): Scored Negotiation #1</u>**
+
+<br> **<u>Week 6 (): Class Debrief on Scored Negotiation #1, Representation Plans</u>**
+
+[Sample Negotiation Plan Preparation Sheet](./Negotiation_Prep_Sheet.pdf)
+
+<br> **Negotiation Scenario: 67 Fish Pond Lane**
+- Confidential Information for the Buyer
+- Confidential Information for the Seller
+
+<br> **<u>Week 7 (): Interest Generation, Neogitation techniques & Terms</u>**
+
+[Week 7 Slides](./)
+
+<br> [Good Grief! Anxiety Sours the Economic by Dr. Je'Anna Abbott](./Good_Grief!_Anxiety_Sours_the_Economic_Abbott.pdf)
+
+[Five Common Negitation Mistakes and How You Can Avoid Them](./5_Common_Negotiation_Mistakes_and_How_You_Can_Avoid_Them.docx)
+
+[Five Good Negotitation Techniques](./5_Good_Negotiation_Techniques.docx)
+
+[Are Introverts at a Disadvantage in Negotiation](./Are_Introverts_at_a_Disadvantage_in_Negotiation.docx)
+
+[The First Offer Dilemma in Negotiations](./The_First_Offer_Dilemma_in_Negotiations.pdf)
+
+[Dealing with Difficult People](./Dealing_with_Difficult_People.pdf)
+
+[The Anchoring Heuristics - Anchoring for Maximum Effec](./The_Anchoring_Heurist_Anchoring_for_Maximum_Effect.docx)
+
+<br> **Negotiation Scenario: James v. Falls**
+
+- Confidentation Information for River James
+- Confidentiatl Information for Rory Falls
+
+<br> **<u>Week 8 (): Option Packages & Justifications</u>**
+
+[Week 8 Slides](./
+
+<br> **Negotiation Scenario**: Bevans v. Newcombe Realty (General Information)**
+
+- Confidential Information for Bevans
+- Confidential Information for Newcombe Realty
+
+<br> **<u>Week 9(): Scored Negotiations #2</u>**
+
+<br> **<u>Week 10(): Class Debrief on Scored Negotiation #2, Negotiation Techniques and Strategies</u>**
+
+[Week 10 Slides](./
+
+<br> [Negotiation Strategies and Techniques](./Negotiation_Strategies_and_Techniques.pdf)
+
+<br> Negotiation Scenario: **Leaves Before the Fall**
+
+- Representing Sharon Stone
+- Representing Microtech
+
+<br> **<u>Week 11(): Multi-Party Negotiations</u>**
+
+[Weel 11 Sldies](./
+
+<br> [Building Coalitions](./Coalition_Building.docx)
+
+[Managing a Multi-party Negotiation](./Managing_a_Multiparty_Negotiation.docx)
+
+[Turning Adversaries into Partners](./Turning_Adversaries_into_Partners.pdf)
+
+<br> Negotiation Scenario: Harborco: General Information
+
+- Representing the Feral DRC
+- Representing the Environmental League
+- Representing Harborco
+- Representing the Union
+- Representing the Governonr
+- Representing the Other Ports
+
+<br> **<u>Week 12(): Final Negotiation Planning Sessions</u>**
+
+<br> **<u>Week 13(): Scored Negotiation #3 & Final Class Debriefing</u>**
+
+<br> **Suggested Reading List**
+
+- [Online Negotiations in a time of Social Distancing](./Online_Negotiation_in_a_Time_of_Social_Distance.docx)
+- [In Email Negotiations, When They're Happy, Do You Know It?](./In_Email_Negotiations,_When_They're_Happy,_Do_You_Know_It.docx)
+- [Body Language in Negotiations](./Body_Language_in_Negotiation.docx)
+- [How Body Language Affects Negotiations](./How_Body_Language_Affects_Negotiation.docx)
+- [Overcoming Cultural Barriers in Negotiation](./Overcoming_Cultural_Barriers_in_Negotiation_V02.pdf)
+- [Cross-Cultural Communication in Business Neogtiations](./Cross_Cultural_Communication_in_Business_Negotiations.docx)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
